@@ -4,6 +4,7 @@ title: "Mencoba Riset Keyword Potensial dengan Tools Gratis"
 date:   2016-06-11 01:10:36 +0900
 categories: seo
 permalink: coba-riset-keyword-potensial-tool-gratis
+published: false
 ---
 
 Saat ini saya sedang mencoba teknik `link building` yang sedang populer untung mendongkrak posisi `SERP` situs

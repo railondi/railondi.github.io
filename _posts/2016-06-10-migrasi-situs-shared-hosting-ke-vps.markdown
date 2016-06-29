@@ -4,6 +4,7 @@ title: "Cara migrasi situs Wordpress dari Self Hosted ke VPS"
 date:   2016-06-10 23:30:36 +0900
 categories: server
 permalink: cara-migrasi-wordpress-ke-vps
+published: false
 ---
 
 Berikut ini adalah pengalaman pertama saya memindahkan situs yang sebelumnya menggunakan shared hosting ke `VPS`. Namun sebelumnya saya akan ceritakan sedikit motif kejadian ini.
