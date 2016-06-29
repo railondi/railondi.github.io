@@ -25,6 +25,9 @@ body {
     font-kerning: normal;
 }
 
+article{
+    text-align: justify;
+}
 
 
 /**
@@ -47,7 +50,12 @@ img {
     vertical-align: middle;
 }
 
-
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+    border-radius:4px;
+}
 
 /**
  * Figures
