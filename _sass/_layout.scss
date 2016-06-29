@@ -4,10 +4,13 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+    min-height: 66px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    // color
+    background: linear-gradient(#fff,#ccc);
 }
 
 .site-title {
@@ -100,6 +103,9 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+
+    // color
+    background: linear-gradient(#ccc,#fff);
 }
 
 .footer-heading {
@@ -215,6 +221,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    text-align:justify;
 
     h2 {
         font-size: 32px;
@@ -239,4 +246,16 @@
             font-size: 18px;
         }
     }
+}
+
+.post-sidebar-right{
+    text-align: left;
+    float: right;
+    margin-left:5px;
+    width: 200px;
+    border: 1px dashed #ccc;
+    word-wrap: break-word;
+    font-size:80%;
+    padding:5px;
+    background-color:#ffd;
 }
