@@ -50,4 +50,130 @@ Sebaiknya coba buat situs tipe `landing page` yang mempromosikan barang/jasa/pri
 <h2>Isi Website dengan Konten</h2>
 Kata para pakar internet marketing, konten adalah raja. Dari pada pusing pikir 'raja' apa yang cocok untuk mengisi situs ini, mending cari di postingan media sosial. Banyak penjual semi-online yang memasarkan produk dengan cara spam. Kita ambil salah satu contoh postingan-nya.
 
-<!--ambil contoh konten posting jual barang dari facebook ubah jadi landing page-->
+Salah satu contoh adalah postingan tentang "penjualan speedometer segala jenis motor" berikut. Nampaknya memiliki gambar yang cukup lengkap serta keterangan jenis produk yang banyak.
+
+![Cara buat web html keren dengan Notepad]({{ base.url }}/pictures/buat-web-dengan-notepad-fb-post.jpg){: .center-image }
+
+Setelah isi postingan facebook tadi di-copy, selanjutnya di isi kedalam halaman HTML tadi dengan sedikit perubahan pada judul serta penambahan gambar. Kode HTML-nya adalah sebagai berikut:
+{% highlight ruby %}
+<html>
+<head>
+	<title>Website Keren</title>
+<style type="text/css">
+img{border-radius:5%;}
+</style>
+</head>
+<body>
+<div class="isi">
+
+<h1>MRZ"SPEEDOMETER CUSTOM</h1>
+
+<p>
+Asallammualaikum ,Hallo Guys Untuk pecinta modifikasi motor buat teman2 yang ingin motor nya terlihat tampil beda yu pesan papan speedometer custom nya desain/gambar bebas bisa menggunakan poto,logo club dll keunggulan speedometer custom bisa menyala dimalam hari dengan cahaya lampu yang menembus di bagian papan sehingga membuat gambar tampak hidup, penasaran pengen tau lebih lanjut?? yuu kepoin dulu ajj....
+</p>
+<img src="speedometer.jpg" />
+<h3>Ready Pola :</h3>
+
+<div class="list">
+Yamaha nouvo Z
+Yamaha nouve lele
+Yamaha mio garnish 2010
+Yamaha mio sporty cw 2007
+Yamaha xeon GT 125
+Yamaha X-ride
+Yamaha mio GT/J
+Yamaha mio M3
+Yamaha mio soul
+Yamaha mio soul GT
+Yamaha Vega Zr
+Yamaha Vega New
+Yamaha Fino Fi
+Yamaha Jupiter MX Old
+Yamaha Jupiter MX king 150 FI
+Yamaha. Jupiter MX NEw
+Yamaha Jupiter Z"Burung Hantu"
+Yamaha vixion old
+Yamaha New Vixion Lightning/Advance
+Honda Vario Tecno 125
+Honda Vario Cw 110
+Honda Vario Techno 110 Cbs
+Honda vario 150 fi
+Honda Cb 150 R
+Honda Revo Fit
+Honda blade
+Honda Beat karbu
+Honda Beat Fi
+Honda Beat POP
+Honda suprax125
+Honda scoopy Fi
+Honda scoopy karbu
+Honda Astrea
+Suzuki Satria F 150
+Kawasaki Ninja Z250
+Kawasaki Ninja Vr
+</div>
+
+</div>
+</body>
+</html>
+{% endhighlight %}
+
+
+Selanjutnya buka tampilan-nya di browser bawaan, yang nampak adalah sebuah halaman web dengan tampilan standar rata-kiri serta list produk yang memanjang bersambung seperti pada gambar berikut ini:
+
+![Cara buat web html keren dengan Notepad]({{ base.url }}/pictures/buat-web-dengan-notepad-hasil-1.jpg){: .center-image }
+
+<!--
+ambil contoh konten posting jual barang dari facebook ubah jadi landing page
+endi gunawan
+Sukabumi, Indonesia
+MRZ"SPEEDOMETER CUSTOM
+
+Asallammualaikum ,Hallo Guys Untuk pecinta modifikasi motor buat teman2 yang ingin motor nya terlihat tampil beda yu pesan papan speedometer custom nya desain/gambar bebas bisa menggunakan poto,logo club dll keunggulan speedometer custom bisa menyala dimalam hari dengan cahaya lampu yang menembus di bagian papan sehingga membuat gambar tampak hidup, penasaran pengen tau lebih lanjut?? yuu kepoin dulu ajj....
+Ready Pola :
+Yamaha nouvo Z
+Yamaha nouve lele
+Yamaha mio garnish 2010
+Yamaha mio sporty cw 2007
+Yamaha xeon GT 125
+Yamaha X-ride
+Yamaha mio GT/J
+Yamaha mio M3
+Yamaha mio soul
+Yamaha mio soul GT
+Yamaha Vega Zr
+Yamaha Vega New
+Yamaha Fino Fi
+Yamaha Jupiter MX Old
+Yamaha Jupiter MX king 150 FI
+Yamaha. Jupiter MX NEw
+Yamaha Jupiter Z"Burung Hantu"
+Yamaha vixion old
+Yamaha New Vixion Lightning/Advance
+Honda Vario Tecno 125
+Honda Vario Cw 110
+Honda Vario Techno 110 Cbs
+Honda vario 150 fi
+Honda Cb 150 R
+Honda Revo Fit
+Honda blade
+Honda Beat karbu
+Honda Beat Fi
+Honda Beat POP
+Honda suprax125
+Honda scoopy Fi
+Honda scoopy karbu
+Honda Astrea
+Suzuki Satria F 150
+Kawasaki Ninja Z250
+Kawasaki Ninja Vr
+
+Untuk Konsultasi Silahkan Hubungi
+Call/SmS : 08126193905 / 081391181893
+Pin BBM. : 57A71A05
+
+Alamat Jelas : Kp Raweuy Utara Rt 04/06 Desa Sukakarya Kec Warudoyong Kota Sukabumi.
+
+Terimakasih Telah Menyimak dengan baik
+Salam Modifikasi INDONESIA, MRZ Speedometer Custom, Have a Nice Day 
+-->
