@@ -119,7 +119,7 @@ Kawasaki Ninja Vr
 {% endhighlight %}
 
 
-Selanjutnya buka tampilan-nya di browser bawaan, yang nampak adalah sebuah halaman web dengan tampilan standar rata-kiri serta list produk yang memanjang bersambung seperti pada gambar berikut ini:
+Selanjutnya buka tampilan-nya di browser bawaan, yang nampak adalah sebuah halaman web dengan tampilan standar rata-kiri serta list produk yang memanjang dan bersambung seperti pada gambar berikut ini:
 
 ![Cara buat web html keren dengan Notepad]({{ base.url }}/pictures/buat-web-dengan-notepad-hasil-1.jpg){: .center-image }
 
