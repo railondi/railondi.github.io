@@ -123,6 +123,7 @@ Selanjutnya buka tampilan-nya di browser bawaan, yang nampak adalah sebuah halam
 
 ![Cara buat web html keren dengan Notepad]({{ base.url }}/pictures/buat-web-dengan-notepad-hasil-1.jpg){: .center-image }
 
+Untuk merapikan tampilan dari halaman HTML tersebut agar list-product nampak memanjang ke bawah, tambahkan beberapa script `CSS` berikut:
 <!--
 ambil contoh konten posting jual barang dari facebook ubah jadi landing page
 endi gunawan
