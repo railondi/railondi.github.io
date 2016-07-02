@@ -20,6 +20,10 @@ Yang sudah tau pasti bilang: `Tentu bisalah !!!, kan sama aja. Yang penting hafa
 <h2>Yang Penting Hafal Formatnya Toh??</h2>
 Hingga saat ini main-format HTML belum beruah, beberapa tag reguler yang dimaksuda yakni seperti `HTML`, `head`, `body`. Kapanpun kita membuat halaman web, entah ditulis secara manual ataupun melalui proses perintah program, sebuah halaman HTML akan selalu mengandung beberapa `tag` dasar tersebut.
 
+<center>
+<iframe width="90%" height="480" src="https://www.youtube.com/embed/aUJgbVboOBg" frameborder="0" allowfullscreen></iframe>
+</center>
+
 Sekarang coba buka aplikasi Notepad kamu, yang biasanya terdapat pada group menu Accessories di `Windows`. Bisa juga dengan menekan kombinasi tombol `Windows+R` lalu ketik `notepad.exe` pada `run box` dan tekan `Enter` untuk running perintah pemanggilan `Notepad`.
 
 Siapkan folder tempat menyimpan "mahakarya" website keren kalian nantinya. Misalnya, buat dalam `My Documents` lalu beri nama `website`.
